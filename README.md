@@ -13,7 +13,7 @@ A base de dados, organizada pelos arquivos `cifracao_rsa.csv`, `decifracao_rsa.c
 
 As métricas analisadas foram o `tempo médio de execução` e o `desvio padrão`. As chaves utilizadas possuem tamanhos de `2048`, `3072` e `4096 bits`. Cada resultado representa a média de `cinco execuções por biblioteca`.
 
-## Link do arquivo no Collab
+## Link do arquivo no Colab
 https://colab.research.google.com/drive/15_zkDafgQcruxr3X6XK4eGKV9kRE8Jed?usp=sharing
 
 ## Agradecimentos
